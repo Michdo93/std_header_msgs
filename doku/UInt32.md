@@ -9,7 +9,7 @@ uint32 data
 
 
 ## Compact Message Definition
+
+[std_msgs/Header](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Header.html) header  
   
-Header header  
-  
-uint32 data  
+[std_msgs/uint32](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/UInt32.html) data  
