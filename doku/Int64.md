@@ -9,7 +9,7 @@ int64 data
 
 
 ## Compact Message Definition
+
+[std_msgs/Header](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Header.html) header  
   
-Header header  
-  
-int64 data  
+[std_msgs/int64](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Int64.html) data  
