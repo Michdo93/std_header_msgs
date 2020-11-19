@@ -13,8 +13,8 @@ int64[]           data          \# array of data
 
 
 ## Compact Message Definition
+
+[std_msgs/Header](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Header.html) header  
   
-Header header  
-  
-MultiArrayLayout  layout    
+[std_msgs/MultiArrayLayout](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/MultiArrayLayout.html)  layout    
 int64[]           data   
