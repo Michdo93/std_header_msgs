@@ -8,7 +8,7 @@ Header header
 uint8 data  
 
 ## Compact Message Definition
+
+[std_msgs/Header](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Header.html) header  
   
-Header header  
-  
-uint8 data  
+[std_msgs/uint8](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/UInt8.html) data  
