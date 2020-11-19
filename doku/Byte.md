@@ -9,6 +9,6 @@ byte data
 
 ## Compact Message Definition
   
-Header header  
+[std_msgs/Header](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Header.html) header  
   
-byte data
+[std_msgs/byte](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Byte.html) data
