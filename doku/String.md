@@ -10,6 +10,6 @@ string data
 
 ## Compact Message Definition
   
-Header header  
+[std_msgs/Header](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Header.html) header  
   
-string data  
+[std_msgs/string](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/String.html) data  
