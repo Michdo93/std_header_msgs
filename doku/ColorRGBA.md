@@ -12,10 +12,10 @@ float32 a
 
 
 ## Compact Message Definition
+
+[std_msgs/Header](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Header.html) header  
   
-Header header  
-  
-float32 r  
-float32 g  
-float32 b  
-float32 a  
+[std_msgs/float32](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Float32.html) r  
+[std_msgs/float32](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Float32.html) g  
+[std_msgs/float32](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Float32.html) b  
+[std_msgs/float32](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Float32.html) a  
