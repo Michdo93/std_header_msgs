@@ -9,7 +9,7 @@ duration data
 
 
 ## Compact Message Definition
+
+[std_msgs/Header](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Header.html) header  
   
-Header header  
-  
-duration data  
+[std_msgs/duration](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Duration.html) data  
