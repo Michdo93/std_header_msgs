@@ -1,3 +1,8 @@
-Header header
+# [std_header_msgs](../README.md)/BoolMessage #
 
-bool data
+## File: std_header_msgs/Bool.msg
+## Raw Message Definition
+  
+Header header  
+  
+bool data  
