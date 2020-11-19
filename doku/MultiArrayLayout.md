@@ -35,7 +35,7 @@ uint32 data_offset        \# padding elements at front of data
 
 ## Compact Message Definition
   
-Header header  
+[std_msgs/Header](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Header.html) header  
   
-MultiArrayDimension[] dim   
-uint32 data_offset  
+[std_msgs/MultiArrayDimension[]](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/MultiArrayDimension.html) dim   
+[std_msgs/uint32](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/UInt32.html) data_offset  
