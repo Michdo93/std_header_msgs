@@ -8,7 +8,7 @@ Header header
 char data  
   
 ## Compact Message Definition
+
+[std_msgs/Header](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Header.html) header  
   
-Header header  
-  
-char data  
+[std_msgs/char](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Char.html) data  
