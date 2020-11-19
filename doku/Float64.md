@@ -9,7 +9,7 @@ float64 data
 
 
 ## Compact Message Definition
+
+[std_msgs/Header](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Header.html) header  
   
-Header header  
-  
-float64 data  
+[std_msgs/float64](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Float64.html) data  
