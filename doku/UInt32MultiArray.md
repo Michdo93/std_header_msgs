@@ -14,7 +14,7 @@ uint32[]          data          \# array of data
 
 ## Compact Message Definition
   
-Header header  
+[std_msgs/Header](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/Header.html) header  
   
-MultiArrayLayout  layout    
+[std_msgs/MultiArrayLayout](http://docs.ros.org/en/melodic/api/std_msgs/html/msg/MultiArrayLayout.html)  layout    
 uint32[]          data  
