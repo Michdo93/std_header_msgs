@@ -1,3 +1,15 @@
-Header header
+# [std_header_msgs](../README.md)/Int64Message #
 
-int64 data
+## File: std_header_msgs/Int64.msg
+## Raw Message Definition
+  
+Header header  
+  
+int64 data  
+
+
+## Compact Message Definition
+  
+Header header  
+  
+int64 data  
