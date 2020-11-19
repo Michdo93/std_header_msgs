@@ -6,3 +6,10 @@
 Header header  
   
 bool data  
+
+
+## Compact Message Definition
+  
+Header header  
+  
+bool data  
